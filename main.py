@@ -65,7 +65,7 @@ async def on_command_error(ctx, error):
         await ctx.send("La commande est //bienvenue @pseudo")        
 
 #donner le jeton d'autentification
-token = "Nzk3MDk3OTA5OTU0MjgxNTAy.X_hhRw.ilt0ZPLKIREQQZ-uywJj3R6RH0c"
+token = "t'as cru que j'allais le mettre en ligne le token de mon bot ?"
 
 #connection au serv
 print("lancement du bot...")
