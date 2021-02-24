@@ -2,8 +2,6 @@ import discord
 from discord.ext import commands
 from discord.utils import get
 
-#tamps video = 2:18:52
-
 #creer un nouvelle instance du bot
 #bot = discord.Client()
 bot = commands.Bot(command_prefix = '//')
